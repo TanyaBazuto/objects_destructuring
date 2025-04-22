@@ -1,6 +1,6 @@
 # Домашнее задание к лекции «Object, Reflection и Proxy»
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/vpp1ku27xcgcs3o0?svg=true)](https://ci.appveyor.com/project/TanyaBazuto/objects-destructuring)
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
 
